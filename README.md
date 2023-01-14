@@ -1,2 +1,2 @@
-# SpringBooRedis
+# SpringBootRedis
 Spring Boot redis POC
