@@ -1,7 +1,6 @@
 package com.sample.redis;
 
 public class User {
-
     int id;
     String name;
     String country;
