@@ -1,4 +1,4 @@
-package com.sample.redis;
+package com.jarvis.redis.demo;
 
 public class User {
     int id;

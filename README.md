@@ -1,2 +1,2 @@
 # SpringBootRedis
-Spring Boot redis POC
+Spring Boot Redis POC
