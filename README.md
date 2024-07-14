@@ -1,5 +1,6 @@
 # SpringBootRedis
 Spring Boot Redis POC 
+
 This application registers Student details into H2 in-memory database and fetches the details of a student from DB, stores it into
 redis cache and sends back response to the client.
 
@@ -15,6 +16,7 @@ Add below properties to application.properties file
 spring.datasource.url=jdbc:h2:mem:testdb
 
 spring.datasource.driverClassName=org.h2.Driver
+
 spring.datasource.username=sa
 
 spring.datasource.password=password
