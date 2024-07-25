@@ -24,7 +24,7 @@ spring.datasource.password=password
 
 spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 
-**Swagger URL: **
+**Swagger URL:**
 http://localhost:8080/swagger-ui
 
 **If the application has secured endpoints use the below configurations related to swagger**
